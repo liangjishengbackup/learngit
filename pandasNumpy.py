@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 @project = 0424-1
-@file = 8_1
+@file = pandasNumpy.py
 @author = Liangjisheng
 @create_time = 2018/4/24 0024 下午 19:13
 """
